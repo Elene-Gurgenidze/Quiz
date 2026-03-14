@@ -1,4 +1,4 @@
-export default function OptionDark({ letter, title,  }) {
+export default function MainOptionDark({ letter, title }) {
     return (
         <>
             <div className="option-card_dark">
